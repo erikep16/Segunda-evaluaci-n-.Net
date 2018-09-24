@@ -1,0 +1,19 @@
+C:\Users\Erik\Desktop\Instituto\Programación .Net\lector\lector\bin\Debug\lector.exe.config
+C:\Users\Erik\Desktop\Instituto\Programación .Net\lector\lector\bin\Debug\lector.exe
+C:\Users\Erik\Desktop\Instituto\Programación .Net\lector\lector\bin\Debug\lector.pdb
+C:\Users\Erik\Desktop\Instituto\Programación .Net\lector\lector\obj\Debug\lector.csprojAssemblyReference.cache
+C:\Users\Erik\Desktop\Instituto\Programación .Net\lector\lector\obj\Debug\lector.Form1.resources
+C:\Users\Erik\Desktop\Instituto\Programación .Net\lector\lector\obj\Debug\lector.Properties.Resources.resources
+C:\Users\Erik\Desktop\Instituto\Programación .Net\lector\lector\obj\Debug\lector.csproj.GenerateResource.cache
+C:\Users\Erik\Desktop\Instituto\Programación .Net\lector\lector\obj\Debug\lector.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Desktop\Instituto\Programación .Net\lector\lector\obj\Debug\lector.exe
+C:\Users\Erik\Desktop\Instituto\Programación .Net\lector\lector\obj\Debug\lector.pdb
+C:\Users\eavello\Desktop\lector\lector\bin\Debug\lector.exe.config
+C:\Users\eavello\Desktop\lector\lector\bin\Debug\lector.exe
+C:\Users\eavello\Desktop\lector\lector\bin\Debug\lector.pdb
+C:\Users\eavello\Desktop\lector\lector\obj\Debug\lector.Form1.resources
+C:\Users\eavello\Desktop\lector\lector\obj\Debug\lector.Properties.Resources.resources
+C:\Users\eavello\Desktop\lector\lector\obj\Debug\lector.csproj.GenerateResource.Cache
+C:\Users\eavello\Desktop\lector\lector\obj\Debug\lector.csproj.CoreCompileInputs.cache
+C:\Users\eavello\Desktop\lector\lector\obj\Debug\lector.exe
+C:\Users\eavello\Desktop\lector\lector\obj\Debug\lector.pdb

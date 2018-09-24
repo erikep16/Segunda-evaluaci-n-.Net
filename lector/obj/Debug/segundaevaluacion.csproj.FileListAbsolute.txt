@@ -1,0 +1,10 @@
+C:\Users\eavello\Desktop\lector\lector\bin\Debug\lector.exe.config
+C:\Users\eavello\Desktop\lector\lector\bin\Debug\lector.exe
+C:\Users\eavello\Desktop\lector\lector\bin\Debug\lector.pdb
+C:\Users\eavello\Desktop\lector\lector\obj\Debug\segundaevaluacion.csprojResolveAssemblyReference.cache
+C:\Users\eavello\Desktop\lector\lector\obj\Debug\lector.Form1.resources
+C:\Users\eavello\Desktop\lector\lector\obj\Debug\lector.Properties.Resources.resources
+C:\Users\eavello\Desktop\lector\lector\obj\Debug\segundaevaluacion.csproj.GenerateResource.Cache
+C:\Users\eavello\Desktop\lector\lector\obj\Debug\segundaevaluacion.csproj.CoreCompileInputs.cache
+C:\Users\eavello\Desktop\lector\lector\obj\Debug\lector.exe
+C:\Users\eavello\Desktop\lector\lector\obj\Debug\lector.pdb
